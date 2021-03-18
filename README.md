@@ -7,3 +7,6 @@ As you all know, a maze is a structure surrounded by walls with numerous paths a
 - 5-for every Level have own music . 
 # Here we will see some Photo of the game ,i wish you like it !
 
+![11](https://user-images.githubusercontent.com/43557035/111666413-5f0bc200-881c-11eb-90af-86965de38e16.PNG)
+![2](https://user-images.githubusercontent.com/43557035/111666334-4b605b80-881c-11eb-8ffb-56ed2822f442.PNG)
+![3](https://user-images.githubusercontent.com/43557035/111666360-51563c80-881c-11eb-87e7-d89b6a018316.PNG)
